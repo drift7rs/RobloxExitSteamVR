@@ -1,0 +1,1 @@
+TASKKILL /IM cmd.exe /F

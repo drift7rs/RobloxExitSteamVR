@@ -5,7 +5,7 @@
 5. Run the RobloxSteamVRFix.vbs file, it will hide to the background and will check every second if 
 RobloxPlayerBeta.exe (roblox) and vrmonitor.exe (SteamVR) are simultaneously open. If so, it will exit vrmonitor.exe (and therefore steamvr. yay!) 
 
-If you want to close the script at any time, run ExitRobloxSteamVRFix.bat which will close the cmd process opened by this (mind you it closes ANY open cmd process. Sorry. It doesn't give out a consistent PID :[ )
+If you want to close the script at any time, run ExitRobloxSteamVRFix.bat which will close the cmd process opened by this (mind you it closes ANY open cmd process. Sorry. If you know how to fix this, reach out to me at drift7rs#9523, since this doesn't give out a consistent PID.)
 
 ||||||||||||||||||||||||||||||||
 
