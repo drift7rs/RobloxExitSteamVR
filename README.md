@@ -1,6 +1,6 @@
 Simple script to automatically close SteamVR when Roblox launches it. 
 
-Install instructions: Download latest release from releases, extract .zip file and follow README.txt for instructions. 
+Install instructions: Download latest release from releases, extract .zip file and follow Installation Instructions.txt for instructions.
 
 THIS IS NOT 100% MADE BY ME!!!
 ChatGPT was used in the making of this, specifically "RobloxExitSteamVR.bat". 
