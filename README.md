@@ -1,3 +1,7 @@
+CURRENTLY NOT NEEDED AS OF 27/01/23 - ROBLOX HAS FIXED THIS ISSUE (for now)
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 Simple script to automatically close SteamVR when Roblox launches it. 
 
 Install instructions: Download latest release from releases, extract .zip file and follow Installation Instructions.txt for instructions.
