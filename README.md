@@ -10,4 +10,4 @@ If you know how to fix something/found a bug, please contact me on discord at dr
 
 I'll make a video guide sometime, but not yet. 
 
-License? WTFPL license. iykyk :D 
+Released under the Mozilla Public License Version 2.0
